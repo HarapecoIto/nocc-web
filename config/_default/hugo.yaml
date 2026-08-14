@@ -161,9 +161,6 @@ menus:
     - name: "利用規約"
       pageRef: /terms
       weight: 30
-    - name: "プレミアム"
-      pageRef: /premium
-      weight: 40
 
 markup:
   goldmark:
